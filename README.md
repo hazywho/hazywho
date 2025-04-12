@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm hezywho!!. 
+Currenltly, I'm working on improving my coding skills because I enjoy coding 🎉
 <!--
 **hazywho/hazywho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
